@@ -1,4 +1,4 @@
-# Better NSFW Badge - Powercord - [![Paypal][paypal-badge]][paypal-link]
+# NSFW Badge - Powercord - [![Paypal][paypal-badge]][paypal-link]
 
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%23003087.svg?logo=paypal&style=flat
 [paypal-link]: https://paypal.me/JaxEllis
